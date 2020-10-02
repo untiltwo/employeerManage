@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f197a425-e1b9-4c14-912b-d375158dc402" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iJITZ1f8tnDYy1hsDhOAapsCx9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/until/team/service" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\javaProject\src\com\until\team\service" />
+      <recent name="E:\javaProject\src\com\until\team\view" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TeamView">
+    <configuration name="TeamView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.until.team.view.TeamView" />
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.until.team.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameListServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.until.team.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.until.team.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.until.team.junit.NameListServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameListServiceTest.testGetAllEmployees" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.until.team.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.until.team.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.until.team.junit.NameListServiceTest" />
+      <option name="METHOD_NAME" value="testGetAllEmployees" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameListServiceTest.testGetEmployee" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.until.team.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.until.team.junit" />
+      <option name="MAIN_CLASS_NAME" value="com.until.team.junit.NameListServiceTest" />
+      <option name="METHOD_NAME" value="testGetEmployee" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TeamView" />
+        <item itemvalue="JUnit.NameListServiceTest.testGetEmployee" />
+        <item itemvalue="JUnit.NameListServiceTest.testGetAllEmployees" />
+        <item itemvalue="JUnit.NameListServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f197a425-e1b9-4c14-912b-d375158dc402" name="Default Changelist" comment="" />
+      <created>1601619276092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601619276092</updated>
+      <workItem from="1601619280935" duration="13659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1027" y="157" key="#com.intellij.ide.util.MemberChooser" timestamp="1601627093672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1027" y="157" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1601627093672" />
+    <state x="844" y="189" key="FileChooserDialogImpl" timestamp="1601628153977">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="844" y="189" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601628153977" />
+    <state width="882" height="600" key="GridCell.Tab.0.bottom" timestamp="1601630969755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="600" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601630969755" />
+    <state width="882" height="600" key="GridCell.Tab.0.center" timestamp="1601630969755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="600" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601630969755" />
+    <state width="882" height="600" key="GridCell.Tab.0.left" timestamp="1601630969755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="600" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601630969755" />
+    <state width="882" height="600" key="GridCell.Tab.0.right" timestamp="1601630969755">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="882" height="600" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601630969755" />
+    <state x="860" y="327" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601624810198">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="860" y="327" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864@0.0.1536.864" timestamp="1601624810198" />
+    <state x="911" y="64" key="refactoring.ChangeSignatureDialog" timestamp="1601621870985">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="911" y="64" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1601621870985" />
+    <state x="844" y="206" width="672" height="677" key="run.anything.popup" timestamp="1601629896467">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="844" y="206" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1601629896467" />
+  </component>
+</project>
